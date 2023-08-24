@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentricaBeerExchange.Untappd", "CentricaBeerExchange.Untappd\CentricaBeerExchange.Untappd.csproj", "{4B11601F-BBF6-4D8C-86B9-7E70613BBEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentricaBeerExchange.Untappd.Debug", "CentricaBeerExchange.Untappd.Debug\CentricaBeerExchange.Untappd.Debug.csproj", "{C1592464-B697-4A88-AA14-C51CF0413C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B11601F-BBF6-4D8C-86B9-7E70613BBEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B11601F-BBF6-4D8C-86B9-7E70613BBEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B11601F-BBF6-4D8C-86B9-7E70613BBEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B11601F-BBF6-4D8C-86B9-7E70613BBEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1592464-B697-4A88-AA14-C51CF0413C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1592464-B697-4A88-AA14-C51CF0413C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1592464-B697-4A88-AA14-C51CF0413C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1592464-B697-4A88-AA14-C51CF0413C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783821E5-308D-4DBD-ACB3-73EBD2D0B806}
+	EndGlobalSection
+EndGlobal
